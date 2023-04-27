@@ -6,4 +6,6 @@
 This is a variation of the [Express](https://expressjs.com/) template on [Aptible](https://aptible.com).
 The app in this repo is deployed live [here](https://app-52737.on-aptible.com/).
 
-[Deploy on Aptible](https://app.aptible.com/create)
+[![Deploy on Aptible](https://app.aptible.com/deploy-on-aptible.svg)](https://app.aptible.com/create)
+
+[Detailed docs](https://www.aptible.com/docs/node-js-quickstart)
