@@ -8,6 +8,7 @@ COPY package-lock.json /app
 RUN npm ci
 
 COPY . /app
+COPY .aptible /.aptible
 
 EXPOSE 3000
 
