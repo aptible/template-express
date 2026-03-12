@@ -25,7 +25,7 @@ router.get('/', function(req, res, next) {
 });
 
 // 404 fallback
-router.get('*', function(req, res){
+router.get('*path', function(req, res){
   res.status(404)
   res.render('404')
 });
